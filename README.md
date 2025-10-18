@@ -21,4 +21,4 @@ Ova aplikacija omogućava kreiranje, uređivanje i brisanje događaja, kao i upr
 ### 1. Kloniraj repozitorijum
 
 ```bash
-git clone https://github.com/korisnicko-ime/naziv-projekta.git
+https://github.com/elab-development/serverske-veb-tehnologije-2024-25-veb_app_prodaja_ulaznica_2022_0501
